@@ -1,5 +1,5 @@
 # CS-4395-Natural-Language-Processing
-### *Michael Menjivar, msm180010*
+### *Michael Menjivar*
 Repository for CS 4395 assignments/projects.
 
 ## Assignment Zero
