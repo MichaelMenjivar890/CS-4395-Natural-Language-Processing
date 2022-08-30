@@ -2,5 +2,8 @@
 ### *Michael Menjivar, msm180010*
 Repository for CS 4395 assignments/projects.
 
-## Portfolio Assignment Zero
-Link to assignment instructions [here](Portfolio_Component_0.pdf).
+## Assignment Zero
+Link to [Assignment 0 - Porfolio Setup](CS_4395_-_Assignment_0.pdf).
+
+## Assignment 1
+
