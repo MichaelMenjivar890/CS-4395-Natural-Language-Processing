@@ -6,7 +6,7 @@ Repository for CS 4395 assignments/projects.
 Link to [Assignment 0 - Porfolio Setup](CS_4395_-_Assignment_0.pdf).
 
 ## Assignment 1
-Link to [Assignment 1 - Portfolio Assignment 1](Homework_1_msm180010.py).
+Link to [Assignment 1 - Portfolio Assignment 1](Homework1_msm180010.py).
 
 The program reads in a .csv file, processes the employee information stored in said file, stores information in a pickle file, and reads/outputs formatted data from the pickle file.
 
