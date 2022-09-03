@@ -25,11 +25,9 @@ class Person:
         print("\t" + self.first + " " + self.mi + " " + self.last)
         print("\t" + self.phone + "\n")
 
-def processFile(filePath):
+def processFile(dataFile):
 
-    # Open file and create a list with each line from file.
-    current_dir: str = os.getcwd()
-    dataFile = open(os.path.join(current_dir, filepath), 'r')
+    # Read in the data from the file
     dataFileLines = dataFile.readlines()
 
     # Remove newLine(s)
@@ -53,7 +51,7 @@ def processFile(filePath):
         line[0] = line[0].capitalize()
         line[1] = line[1].capitalize()
 
-        # Check for Middle initial; capitalize if present, else subsiture for 'X'.
+        # Check for Middle initial; capitalize if present, else substitute for 'X'.
         if line[2]:
             line[2] = line[2].upper()
         else:
@@ -105,6 +103,7 @@ def processFile(filePath):
         else:
             print("Duplicate ID error. Employee with ID [ " + newPerson.id + " ] already exists.")
 
+    # Return dict of employees.
     return employees
 
 if __name__ == '__main__':
@@ -112,9 +111,13 @@ if __name__ == '__main__':
         # No sysarg given to open data file.
         print('Please enter a filename as a system arg')
     else:
-        # Process, reformat, and write data to a dict.
+        # Open file.
         filepath = sys.argv[1]
-        employees = processFile(filepath)
+        current_dir: str = os.getcwd()
+        dataFile = open(os.path.join(current_dir, filepath), 'r')
+
+        # Process, reformat, and write data to a dict.
+        employees = processFile(dataFile)
 
         # Pickle data; write to file.
         pickle.dump(employees, open('employees.p', 'wb'))
