@@ -6,7 +6,7 @@ Repository for CS 4395 assignments/projects.
 Link to [Assignment 0 - Porfolio Setup](CS_4395_-_Assignment_0.pdf).
 
 ## Assignment 1
-Link to [Assignment 1 - Portfolio Assignment 1](Homework1_msm180010.py).
+Link to [Assignment 1 - Python Text Processing](Homework1_msm180010.py).
 
 The program reads in a .csv file, processes the employee information stored in said file, stores information in a pickle file, and reads/outputs formatted data from the pickle file.
 
@@ -16,3 +16,7 @@ Then, run the .py file with the command "python [.py file] data/[.csv file]", wh
 While the simplicity of Python syntax makes text processing simpler, there are certain issues I had while implementing this program that stuck out to me as Python specific. Mainly, how I was unable to easily iterate directly through a String in the same manner as an Array in other languages, making inserting characters (specifically '-' while formatting phone numbers) slightly more complex. However, the process was mostly straightforward seeing as Python has the same tools available in other programming languages, namely Regular Expressions.
 
 I personally learned from this assignment that Strings in Python are immutable, meaning that they cannot be directly manipulated like in other languages (Java, C++, etc). I will have to keep this in mind for future assignments.
+
+## Assignment 2
+
+Link to [Assignment 2 - NLTK Exploration](Homework2_msm180010.pdf).
