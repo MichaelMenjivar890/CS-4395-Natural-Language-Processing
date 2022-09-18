@@ -3,7 +3,7 @@
 Repository for CS 4395 assignments/projects.
 
 ## Assignment Zero - GitHub Portfolio setup
-Link to [Assignment 0](CS_4395_-_Assignment_0.pdf).
+Link to [Assignment 0](Completed-Assignments/CS_4395_-_Assignment_0.pdf).
 
 ## Assignment 1 - Python Text Processing
 Link to [Assignment 1](Completed-Assignments/Homework1_msm180010.py) and assignment instructions [here](Assignment-Instructions/Assignment_1.pdf).
@@ -25,7 +25,7 @@ In this assignment, we were introduced to various NLTK functionalities through t
 
 ## Assignment 3 - NLP Application Basics and Word Guessing Game
 
-Link to [Assignment 3](Completed-Assignments/Homework3_msm180010.pdf) and assignment instructions [here](Assignment-Instructions/Assignment_3.pdf).
+Link to [Assignment 3](Completed-Assignments/Homework3_msm180010.py) and assignment instructions [here](Assignment-Instructions/Assignment_3.pdf).
 
 In the first part of this project, we calculated the lexical diversity of a text (which can be found [here](anat19.txt) and performed several operations on the text which included lemmatization and Part of Speech (POS) tagging to find all unique nouns in the text and the number of times each noun appeared in the text.
 
