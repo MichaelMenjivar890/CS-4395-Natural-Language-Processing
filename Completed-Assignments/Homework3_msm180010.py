@@ -78,8 +78,8 @@ def guessingGame(nounList):
                 tempWord = nounList[randint(0,49)]
             correctWord = tempWord
             lettersGuessed = ''
+        # If user has not completed word yet:
         else:
-
             # Let user guess a letter in the word
             playerGuess = input("\nGuess a letter: ")
 
@@ -90,7 +90,8 @@ def guessingGame(nounList):
                 else:
                     playerGuess = input("You already used that letter. Guess a different letter: ")
 
-            lettersGuessed += playerGuess
+            lettersGuessed += playerGuess   # Add letter to string of letters already inputted by user.
+
             # If user inputs '!', stop guessing game.
             if playerGuess == '!':
                 break
@@ -101,11 +102,12 @@ def guessingGame(nounList):
                 print("Correct! Your score is now " + str(playerScore) + "\n")
             else:
                 playerScore -= 1
-                print("Sorry, guess again. Your score is now " + str(playerScore) + "\n")
+                if playerScore > -1:
+                    print("Sorry, guess again. Your score is now " + str(playerScore) + "\n")
 
                 # If the user's score falls below 0, the game is over.
                 if playerScore < 0:
-                    print("[ Game over! Better luck next time ]")
+                    print("\n[ Game over! Better luck next time ]")
                     print("[ The word was: " + correctWord + " ]")
                     print("[ Total words completed: " + str(wordsFinished) + " ]\n")
                     break
