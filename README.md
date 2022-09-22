@@ -25,7 +25,7 @@ In this assignment, we were introduced to various NLTK functionalities through t
 
 ## Assignment 3 - NLP Application Basics and Word Guessing Game
 
-Link to [Assignment 3](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework3_msm180010.pdf) and assignment instructions [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_3.pdf).
+Link to [Assignment 3](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework3_msm180010.py) and assignment instructions [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_3.pdf).
 
 In the first part of this project, we calculated the lexical diversity of a text (which can be found [here](anat19.txt)) and performed several operations on the text which included lemmatization and Part of Speech (POS) tagging to find all unique nouns in the text and the number of times each noun appeared in the text.
 
