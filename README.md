@@ -27,7 +27,7 @@ In this assignment, we were introduced to various NLTK functionalities through t
 
 Link to [Assignment 3](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework3_msm180010.py) and assignment instructions [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_3.pdf).
 
-In the first part of this project, we calculated the lexical diversity of a text (which can be found [here](anat19.txt)) and performed several operations on the text which included lemmatization and Part of Speech (POS) tagging to find all unique nouns in the text and the number of times each noun appeared in the text.
+In the first part of this project, we calculated the lexical diversity of a text (which can be found [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/anat19.txt)) and performed several operations on the text which included lemmatization and Part of Speech (POS) tagging to find all unique nouns in the text and the number of times each noun appeared in the text.
 
 In the subsequent part of the this project, we utilized the top 50 most frequent nouns from the text to create a word guessing game similar to Hangman or Wheel of Fortune. The user is prompted to input one letter at a time, and their score goes up or down depending on if the letter is in the word or not, respectively. When their score dips below zero, the game is over. The user must attempt to correctly solve as many words as possible.
 
