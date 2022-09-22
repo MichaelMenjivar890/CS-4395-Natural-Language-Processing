@@ -6,7 +6,7 @@ Repository for CS 4395 assignments/projects.
 Link to [Assignment 0](Completed-Assignments/CS_4395_-_Assignment_0.pdf).
 
 ## Assignment 1 - Python Text Processing
-Link to [Assignment 1](Completed-Assignments/Homework1_msm180010.py) and assignment instructions [here](Assignment-Instructions/Assignment_1.pdf).
+Link to [Assignment 1](Completed-Assignments/Homework1_msm180010.py) and assignment instructions [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework1_msm180010.py).
 
 The program reads in a .csv file, processes the employee information stored in said file, stores information in a pickle file, and reads/outputs formatted data from the pickle file.
 
