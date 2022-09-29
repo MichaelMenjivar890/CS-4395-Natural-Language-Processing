@@ -34,3 +34,7 @@ In the subsequent part of the this project, we utilized the top 50 most frequent
 ## Assignment 4 - WordNet Exploration
 
 Link to [Assignment 4](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework4_msm180010.pdf) and assignment instructions [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_4.pdf).
+
+## Assignmnent 5 - Ngrams
+
+Link to Assignment 5: [Program 1](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework5_Program 1_msm180010.py) and [Program 2](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework5_Program2_msm180010.py),  and assignment instructions [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Portfolio_Chapter8_N-grams.pdf).
