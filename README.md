@@ -37,4 +37,4 @@ Link to [Assignment 4](https://github.com/MichaelMenjivar890/CS-4395-Natural-Lan
 
 ## Assignmnent 5 - Ngrams
 
-Link to Assignment 5: [Program 1](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework5_Program 1_msm180010.py) and [Program 2](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework5_Program2_msm180010.py),  and assignment instructions [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Portfolio_Chapter8_N-grams.pdf).
+Link to Assignment 5: [Program 1](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework5_Program1_msm180010.py) and [Program 2](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework5_Program2_msm180010.py),  and assignment instructions [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Portfolio_Chapter8_N-grams.pdf).
