@@ -47,6 +47,8 @@ Program 2 is then run which uses the data to create probabilities for each bigra
 
 Link to [Assignment 6](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework6_msm180010.py) and report [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework6_Report_msm180010.pdf). Assignment instructions can be found [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_6.pdf).
 
-## Assignment 6 - Syntax Parser
-Link to Link to [Assignment 7](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework7_msm180010.pdf). Assignment instructions can be found [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_7.pdf).
+## Assignment 7 - Syntax Parser
+Link to [Assignment 7](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework7_msm180010.pdf). Assignment instructions can be found [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_7.pdf).
 
+## Assignment 8 - Author Attribution
+Link to [Assignment 8](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework8_msm180010.pdf). Assignment instructions can be found [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_8.pdf).
