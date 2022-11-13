@@ -52,3 +52,6 @@ Link to [Assignment 7](https://github.com/MichaelMenjivar890/CS-4395-Natural-Lan
 
 ## Assignment 8 - Author Attribution
 Link to [Assignment 8](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework8_msm180010.pdf). Assignment instructions can be found [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_8.pdf).
+
+## Assignment 9 - ACL Paper Summary
+Link to [Assignment 9](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework9_msm180010.pdf). Assignment instructions can be found [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_9.pdf).
