@@ -57,4 +57,4 @@ Link to [Assignment 8](https://github.com/MichaelMenjivar890/CS-4395-Natural-Lan
 Link to [Assignment 9](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework9_msm180010.pdf). Assignment instructions can be found [here](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Assignment-Instructions/Assignment_9.pdf).
 
 ## Assignment 11 - Text Classification
-Link to [Assignment 11](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Completed-Assignments/Homework11_msm180010.pdf).
+Link to [Assignment 11](https://github.com/MichaelMenjivar890/CS-4395-Natural-Language-Processing/blob/main/Homework11_msm180010.pdf).
